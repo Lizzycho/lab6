@@ -1,0 +1,39 @@
+body{
+	color:black;
+	background-color:green;
+}
+p{font-family:"Times New Roman", Times, serif;}
+
+#wrapper{
+		margin-left: 100px;
+		margin-right: 100px;
+		margin-bottom: 500px;
+	  width: 1000px;
+		background-color: green;
+}
+
+
+#content1{
+  float:left;
+  height: 250px;
+  width: 250px;
+  padding-top: 10px;
+  background-color: blue;
+}
+
+#content2{
+  float: right;
+  height: 250px;
+  width: 250px;
+  padding-top: 10px;
+  background-color: red;
+}
+
+#content3{
+  clear: both;
+  margin: auto;
+  height: 250px;
+  width: 250px;
+  background-color: yellow;
+}
+}
